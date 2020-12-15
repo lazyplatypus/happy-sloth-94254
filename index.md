@@ -21,7 +21,7 @@ sections:
         type: action
   - section_id: features
     type: section_features
-    background: white
+    background: gray
     title: Our Mission
     subtitle: >-
       Create an inclusive, intentional, inclusive space for Ruby enthusiasts to
