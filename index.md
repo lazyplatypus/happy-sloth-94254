@@ -18,8 +18,8 @@ sections:
     background: gray
     title: Our Mission
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Create an inclusive, intentional, inclusive space for Ruby enthusiasts to
+      share their experiences with the world.
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
