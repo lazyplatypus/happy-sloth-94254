@@ -10,7 +10,7 @@ sections:
       An online meetup for Rubyist around the world, and if we're lucky - the
       galaxy.
     actions:
-      - label: Learn More
+      - label: Sign Up
         url: /features
         primary: true
   - section_id: features
